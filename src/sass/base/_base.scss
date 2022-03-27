@@ -883,3 +883,10 @@ a {
 .footer-container-svg:last-child {
   margin-right: 0px;
 }
+.footer-list-items-svg {
+  display: flex;
+  flex-direction: row;
+}
+.footer-list-item-svg {
+  display: flex;
+}
