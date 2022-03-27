@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),new Swiper(".swiper",{navigation:{nextEl:".swiper-button-prev",prevEl:".swiper-button-next"}});
 },{"./sass/main.scss":"clu1"}]},{},["Focm"], null)
-//# sourceMappingURL=/healthy-food/src.d872e4fe.js.map
+//# sourceMappingURL=/healthy-food/src.2a1fbc49.js.map
