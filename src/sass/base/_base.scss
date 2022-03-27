@@ -29,6 +29,8 @@ a {
 }
 .container {
   padding-left: 150px;
+  padding-bottom: 0;
+  margin-top: 31px;
 }
 .header__menu {
   display: flex;
@@ -36,13 +38,12 @@ a {
 .logotype__link {
   display: block;
   margin-right: 35px;
-  margin-top: 31px;
 }
 .header__list-menu {
   display: flex;
 }
 .navigation__item {
-  margin-top: 43px;
+  margin-top: 15px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
@@ -60,7 +61,7 @@ a {
   font-size: 16px;
   line-height: 19px;
   color: #ffffff;
-  margin-top: 43px;
+  margin-top: 15px;
   margin-left: 418px;
 }
 .header__button:active {
@@ -810,8 +811,8 @@ input {
   padding-right: 150px;
   background: rgba(37, 37, 37, 1);
   padding-top: 137px;
-  padding-bottom: 134px;
   display: flex;
+  padding-bottom: 104px;
 }
 .footer-list-item:first-child {
   margin-bottom: 25px;
@@ -888,6 +889,10 @@ a {
   top: 166px;
   right: 100px;
   margin-right: 10px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  width: 21px;
+  height: 21px;
 }
 .footer-list-items-svg {
   display: flex;
