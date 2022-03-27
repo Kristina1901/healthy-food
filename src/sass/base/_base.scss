@@ -885,8 +885,10 @@ a {
 }
 .footer-list-items-svg {
   display: flex;
-  flex-direction: row;
 }
 .footer-list-item-svg {
-  display: flex;
+  position: relative;
+  top: 156px;
+  right: 100px;
+  margin-right: 10px;
 }
